@@ -1,4 +1,4 @@
-from ..main import saskaitisana, atnemsana, reizinasana, dalisana
+from main import saskaitisana, atnemsana, reizinasana, dalisana
 
 """
  def test_saskaitisana():
